@@ -1,10 +1,8 @@
-# Jasu Server
+# Gimbox Server
 
-
-Recuerden ejecutar 
-
+ 
 ```
 npm install
 ```
 
-# gimbox- server
+ 
